@@ -1,12 +1,12 @@
 !-------------------------------------------------------------------------------
 ! Title: Andromeda uBlock Filter List
 ! Expires: 7 days (update frequency)
-! Version: 01
-! Last modified: 01 May 2018
-! Homepage: https://github.com/hit3shjain/uBlock-HTJ-list
-! Contribute: https://github.com/hit3shjain/uBlock-HTJ-list/issues
+! Version: 02
+! Last modified: 05 May 2018
+! Homepage: https://github.com/hit3shjain/Andromeda-ublock-list
+! Contribute: https://github.com/hit3shjain/Andromeda-ublock-list/issues
 ! License: https://mit-license.org/
-! Description: This filter disables some Ad and Tracking Hosts
+! Description: This filter disables some Ad and Tracking Hosts in uBlock
 !-------------------------------------------------------------------------------
 ###\37 28x90
 ###betald-widget
