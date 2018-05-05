@@ -1,5 +1,5 @@
 !-------------------------------------------------------------------------------
-! Title: HTJ uBlock Filter List
+! Title: Andromeda uBlock Filter List
 ! Expires: 7 days (update frequency)
 ! Version: 01
 ! Last modified: 01 May 2018
