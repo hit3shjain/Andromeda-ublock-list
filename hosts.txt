@@ -1025,7 +1025,6 @@ financialexpress.com###append_breaking_box
 financialexpress.com##.common-bottom-text
 mayoclinic.org##.mayoad
 ndtv.com##.banner-right
-ndtv.com##div:nth-of-type(3) > div:nth-of-type(1) > p
 nyoooz.com##.add-inner
 nyoooz.com##.add-inner22
 onvista.de###MEGASIZE_BANNER
