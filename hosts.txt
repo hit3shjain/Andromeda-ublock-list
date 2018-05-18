@@ -1,8 +1,8 @@
 !-------------------------------------------------------------------------------
 ! Title: Andromeda uBlock Filter List
 ! Expires: 7 days (update frequency)
-! Version: 02
-! Last modified: 05 May 2018
+! Version: 02.2
+! Last modified: 18 May 2018
 ! Homepage: https://github.com/hit3shjain/Andromeda-ublock-list
 ! Contribute: https://github.com/hit3shjain/Andromeda-ublock-list/issues
 ! License: https://mit-license.org/
@@ -1036,3 +1036,25 @@ thelocal.de##.article-bottom-newsletter-promo
 web2pdfconvert.com##.img-fpc-logo
 welt.de##.c-ad__medium-rectangle
 welt.de##.c-taboola
+
+!Added on 18th May 2018
+chip.de###contentad-commercial-1
+chip.de###contentad-content-box-1
+chip.de###contentad-lower-medium-rectangle-1
+chip.de##.NewsArticle__Ad
+chip.de##.NewsArticle__Widget
+chip.de##.teaser-headline-gray
+chip.de##.TopList--Downloads
+digit.in##.hubsZone
+digit.in##.top-promo
+gadgetsnow.com###c_wdt_eds_1
+gadgetsnow.com###shopslider
+gadgetsnow.com##.atf_ad300
+gadgetsnow.com##.colombia
+gadgetsnow.com##.home_ed300
+gadgetsnow.com##.nl_popup
+indiatoday.in##.may-be-recommend
+msn.com##.store
+ndtv.com##[href^="https://hotdeals360.com/"]
+tag24.de/click.php
+
