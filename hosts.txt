@@ -1083,3 +1083,13 @@ shareae.com##[href="https://videoblocks.go2cloud.org/SH2g"]
 shareae.com##[href="https://videoblocks.go2cloud.org/SH2g"]
 yahoo.com##.hl-sda-holder-1
 
+!Added on 08th June 2018
+dailymotion.com##.VideoQueue__adWatchingRight___2r0V3
+psddaddy.com##.top_bigAds
+psddaddy.com##.ad_Home_top
+psddaddy.com##.adContentLeft
+psddaddy.com##.sidebar.col-xl-3.col-lg-4
+creativepsddownload.com##.top_bigAds
+creativepsddownload.com##.adContentLeft
+forum.xda-developers.com##.xda-box
+movierulz.tc##a.mv_button_css
