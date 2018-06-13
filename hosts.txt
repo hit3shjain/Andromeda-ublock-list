@@ -459,7 +459,6 @@ firstpost.com##.hidden-xs.asc-spons
 firstpost.com##.hidden-xs.hidden-sm.header-top
 firstpost.com##.hidden-xs.hidden-sm.text-center.container
 firstpost.com##.ipl-sticky-header
-firstpost.com##.main > div:nth-of-type(3)
 firstpost.com##.MT30
 firstpost.com##.panel-score-widget
 firstpost.com##.post-break
@@ -1093,3 +1092,15 @@ creativepsddownload.com##.top_bigAds
 creativepsddownload.com##.adContentLeft
 forum.xda-developers.com##.xda-box
 movierulz.tc##a.mv_button_css
+gsmarena.com##div[id^="div-gpt-ad-"]
+compareindia.news18.com
+news18.com##.com-nav
+thequint.com##.widgets
+thequint.com###mc_embed_signup
+||metype.com^
+thequint.com##.banner-container__right--banner-widgets
+thequint.com##.cwg-content
+thequint.com##.top-common-ad
+thequint.com##.story-widgets-wrap
+scroll.in##.in-article-adsense
+indiatimes.com##.eu_note
