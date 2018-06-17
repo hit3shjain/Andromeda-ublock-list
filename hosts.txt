@@ -1104,3 +1104,16 @@ thequint.com##.top-common-ad
 thequint.com##.story-widgets-wrap
 scroll.in##.in-article-adsense
 indiatimes.com##.eu_note
+
+!Added on 17th June 2018
+@@||maxcdn.bootstrapcdn.com/font-awesome/*$domain=movies777.org
+movies777.org##.content-kuss
+uwatchfree.tv##.watch-hd
+arstechnica.com##footer
+arstechnica.com###social-left
+||noembed.com^
+||orcsnet.com^
+thewire.in##.postComplete__commentHeader
+themobileindian.com##.dul
+themobileindian.com##.banner-next-article
+movies777.org###commentfb
