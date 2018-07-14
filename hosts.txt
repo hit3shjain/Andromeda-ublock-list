@@ -1,8 +1,8 @@
 !-------------------------------------------------------------------------------
 ! Title: Andromeda uBlock Filter List
 ! Expires: 7 days (update frequency)
-! Version: 02.4
-! Last modified: 27 June 2018
+! Version: 02.5
+! Last modified: 14 July 2018
 ! Homepage: https://github.com/hit3shjain/Andromeda-ublock-list
 ! Contribute: https://github.com/hit3shjain/Andromeda-ublock-list/issues
 ! License: https://mit-license.org/
@@ -1268,3 +1268,11 @@ urlaubsguru.de###whatsapp_box
 urlaubsguru.de##.deal-details
 urlaubsguru.de##.promotion-single-banner
 urlaubsguru.de##.uniq-ads
+
+!Added on 14th July 2018
+indiatoday.in##.sponsorContainer
+magicbricks.com##.srpBannerColumn
+moneycontrol.com##.mobile_hide
+news18.com###headerAds728x90
+roofandfloor.com###tzwb-social-icons-3
+yahoo.com###norrin-upsell
