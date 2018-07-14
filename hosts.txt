@@ -1276,3 +1276,9 @@ moneycontrol.com##.mobile_hide
 news18.com###headerAds728x90
 roofandfloor.com###tzwb-social-icons-3
 yahoo.com###norrin-upsell
+bolly2tolly.net^$inline-script
+movierulz.pl##.mv_button_css
+mydealz.de##.js-newsletter-widget
+mydealz.de##.js-whatsapp-widget.card
+thecrazytourist.com###essbsocialfollowerscounterwidget-5
+todaytvseries.xyz###SC_TBlock_540000
