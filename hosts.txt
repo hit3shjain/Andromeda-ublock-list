@@ -1259,6 +1259,7 @@ swarajyamag.com##.s-home-adv-banner
 swarajyamag.com##.smag-currm-wrapper
 swarajyamag.com##.smag-disqus-mobile-twrap
 swarajyamag.com##.swarajya-sub-block
+swarajyamag.com##div[id*="div-gpt-ad-"]
 techradar.com##.popular-box
 thehindu.com###ifrm_test_ad_8815a
 thehindu.com##.artNL
