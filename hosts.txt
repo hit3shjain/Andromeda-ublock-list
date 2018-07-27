@@ -1329,3 +1329,4 @@ techadvisor.co.uk##.amp-apester-loader
 theguardian.com##.badge--alt
 xda-developers.com##.postbit-social
 xda-developers.com##amp-ad
+||imasdk.googleapis.com^$subdocument,domain=tvfplay.com,important
