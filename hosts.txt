@@ -253,7 +253,6 @@ $xmlhttprequest,domain=filmsfunda.com
 ||newindianexpress.com##.widget-container-36
 ||newsharecounts.com
 ||nfsqrijauncb.com
-||nlpcaptcha.in^
 ||onclkds.com$popup
 ||onesignal.com^
 ||opecloud.com
