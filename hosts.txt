@@ -1,8 +1,8 @@
 !-------------------------------------------------------------------------------
 ! Title: Andromeda uBlock Filter List
 ! Expires: 7 days (update frequency)
-! Version: 02.6
-! Last modified: 18 August 2018
+! Version: 02.7
+! Last modified: 27 August 2018
 ! Homepage: https://github.com/hit3shjain/Andromeda-ublock-list
 ! Contribute: https://github.com/hit3shjain/Andromeda-ublock-list/issues
 ! License: https://mit-license.org/
@@ -1455,3 +1455,35 @@ ndtv.com##.wid_tboola
 timesnownews.com##.socialShareWrap
 indiatimes.com###shareInline
 youtube.com###masthead-ad
+
+!Added on 27th August 2018
+*/share.js
+@@||ndtv.com^$inline-script
+@@||platform.twitter.com/widgets.js
+||bselivefeeds.indiatimes.com/ET_Community/*
+||cdn.scroll.in/static/js/chunk.*js$script
+||edata.ndtv.com^
+||electionsdata.ndtv.com^
+||emsservice.de^
+||indiatimes.com/feed_mf_promotion.cms
+||infogram.com^
+||kaloo.ga^
+||moneycontrol.co.in/*elite_logo*$image
+deccanchronicle.com##.ad300x375
+deutsche-wirtschafts-nachrichten.de###newsletter
+deutsche-wirtschafts-nachrichten.de##.entry-social
+faz.net##.ctn-PlaceholderBox
+faz.net##.faz-html-box
+fr.de##.contentxxl-uebersicht
+indiatimes.com##.esi_container
+indiatimes.com##.scl-wdgt
+ndtv.com###adslot300x250BTF
+ndtv.com##._g360_widget_sponsrd
+ndtv.com##.pl-wgt
+ndtv.com##.spanLogo
+ndtv.com##.spnrsBx
+scroll.in##.in-article-adx
+sify.com###mobileapppromo
+spiegel.de##.gutscheine-widget
+tagesspiegel.de###urban-medrect2
+tagesspiegel.de##.whatsapp
