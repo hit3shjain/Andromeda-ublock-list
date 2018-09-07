@@ -1,8 +1,8 @@
 !-------------------------------------------------------------------------------
 ! Title: Andromeda uBlock Filter List
 ! Expires: 7 days (update frequency)
-! Version: 02.7
-! Last modified: 27 August 2018
+! Version: 02.8
+! Last modified: 07 September 2018
 ! Homepage: https://github.com/hit3shjain/Andromeda-ublock-list
 ! Contribute: https://github.com/hit3shjain/Andromeda-ublock-list/issues
 ! License: https://mit-license.org/
@@ -1487,3 +1487,25 @@ sify.com###mobileapppromo
 spiegel.de##.gutscheine-widget
 tagesspiegel.de###urban-medrect2
 tagesspiegel.de##.whatsapp
+
+!Added on 07th September 2018
+*/browserinfo*
+||91-cdn.com^
+||accuweather.com^$xmlhttprequest,domain=thequint.com
+||notifications.google.com^
+||ogs.google.com^
+||www.welt.de/assets/article/*$script,first-party
+extratipp.com###id-Container-436126
+fr.de##.abo_link
+india.com###cube
+india.com##.view-id-zn_hp_rb_special_2018
+indianexpress.com##.lvblg-sharebx
+indiatimes.com###div-gpt-ad-1498641584608-0
+indiatimes.com##.dailydigest-header
+thenextweb.com###whos-hiring
+thenextweb.com##.deals
+thequint.com##.subscription-container
+welt.de##.c-inline-teaser
+welt.de##.c-social-bar
+welt.de##.c-social-bar--is-sticky
+welt.de##script:inject(overlay-buster.js)
