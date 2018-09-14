@@ -1,8 +1,8 @@
 !-------------------------------------------------------------------------------
 ! Title: Andromeda uBlock Filter List
 ! Expires: 7 days (update frequency)
-! Version: 02.8
-! Last modified: 07 September 2018
+! Version: 02.9
+! Last modified: 14 September 2018
 ! Homepage: https://github.com/hit3shjain/Andromeda-ublock-list
 ! Contribute: https://github.com/hit3shjain/Andromeda-ublock-list/issues
 ! License: https://mit-license.org/
@@ -1386,7 +1386,8 @@ rightlog.in###quads-ad1
 rt.com##.follows-channel
 rt.com##.footer__social
 rt.com##.layout__social
-scroll.in###div-gpt-ad-1530701734090-0
+scroll.in##div[id*="div-gpt-ad-"]
+scroll.in###div[id*="div-gpt-ad-"]
 scroll.in###membershipEngagement
 technologyreview.com##.article-sponsored-content-list
 technologyreview.com##.callout--tagged-event-promo
@@ -1500,7 +1501,8 @@ fr.de##.abo_link
 india.com###cube
 india.com##.view-id-zn_hp_rb_special_2018
 indianexpress.com##.lvblg-sharebx
-indiatimes.com###div-gpt-ad-1498641584608-0
+indiatimes.com###div[id*="div-gpt-ad-"]
+indiatimes.com##div[id*="div-gpt-ad-"]
 indiatimes.com##.dailydigest-header
 thenextweb.com###whos-hiring
 thenextweb.com##.deals
@@ -1532,3 +1534,92 @@ movierulz.vc##.mv_button_css
 openload.co###M162831ScriptRootC253504
 theatlantic.com###share-social
 yodesitv.co###commentsAdd
+
+!Added on 14th September 2018
+@@res.cloudinary.com
+bbc.com###follow-us
+bbc.com###share-tools-bottom
+bloombergquint.com##.share-toggle-module__share-button__2DRMl
+bloombergquint.com##.story-top-ad
+boomlive.in###socialcountplus-4
+boomlive.in##.sharedaddy
+deccanchronicle.com##.ad250x300
+deccanchronicle.com##.playStoreContainer
+developer.android.com##.devsite-footer-promos-list
+dw.com##.article__feedbacklink
+firstpost.com##.social-share
+gadgetsnow.com###amz-box
+gadgetsnow.com###div-gpt-MREC_65770094
+gadgetsnow.com##.slideshowwdt
+gadgetsnow.com##.whatsSubscribe
+healthline.com###inline0__slot
+healthline.com###inline1__slot
+healthline.com###inline2__slot
+hindustantimes.com##.social
+huffpost.com###inline-newsletter_placeholder
+huffpost.com##.advertisement
+independent.co.uk##.ad-wrapper
+india.com###stickyad
+mayoclinic.org###adsmobileBottom
+mayoclinic.org###et_linkAppointment_belowContent
+mayoclinic.org###et_linkAppointment_midContent
+mayoclinic.org##.donate
+medicinenet.com###ad
+ndtv.com##.story__social
+ndtv.com##.story_ft-nav
+ndtv.com##.whatsapp
+newindianexpress.com###ad_script_12807
+newindianexpress.com###div[id*="div-gpt-ad-"]
+newindianexpress.com##div[id*="div-gpt-ad-"]
+newindianexpress.com##.ArticleComments
+pcmag.com##.dsq-brlink
+politico.com##.ad-leaderboard
+politico.com##.ad-slot
+poynter.org##.ad-top-banner
+swarajyamag.com##.social-container
+symptoms.webmd.com###ads2-pos-101-ad-banner
+symptoms.webmd.com###ads2-pos-121-ad-right
+symptoms.webmd.com##.ad-label
+symptoms.webmd.com##feedback-form
+thelocal.de##.ad_container
+thenextweb.com##.post-actions
+thenextweb.com##.post-share
+theprint.in##.social_sticky
+thequint.com###back-top
+thequint.com##.story-article__body__left__social-share-device
+thequint.com##.story-article__content__element__share
+theverge.com##.article__share-buttons
+timesofindia.com###whatsAppBanner
+timesofindia.com##.alC
+timesofindia.com##.dailydigest-header
+timesofindia.com##.downloadapp
+timesofindia.com##.whatsapp_banner
+reuters.com###reutersAppBanner
+reuters.com##.amp-ad-container
+vccircle.com###div-gpt-ad-1508842659343-0
+vccircle.com##.banner-display-ad-mobile
+vccircle.com##.square-ad
+vidyasagar.net##.herald-single-mobile-sticky
+business-standard.com##div[id*="div-gpt-ad-"]
+business-standard.com###div[id*="div-gpt-ad-"]
+business-standard.com###fltsubscribebtn
+business-standard.com##.attribution13
+washingtonpost.com##.ad-container
+webmd.com###ads2-pos-101-ad-banner
+webmd.com###ads2-pos-121-ad-right
+webmd.com###ads2-pos-137-pos-137
+webmd.com##.webmd-promo-driver
+wikihow.com###donate
+wikihow.com##.ad_label_method
+wikihow.com##.adsbygoogle
+wikihow.com##.donate
+xda-developers.com###newsletters-2-form-wrapper
+xda-developers.com##.et_social_inline
+mayoclinic.org##.requestappt
+amazon.de###pdagEncapsulated
+techradar.com###sidebar
+howtogeek.com###div-thetop1
+yahoo.com###my-adsFPAD-base
+yahoo.com###my-adsLREC3
+indiatimes.com###socialbuttons
+indiatimes.com##div > div >a
