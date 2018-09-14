@@ -1622,4 +1622,3 @@ howtogeek.com###div-thetop1
 yahoo.com###my-adsFPAD-base
 yahoo.com###my-adsLREC3
 indiatimes.com###socialbuttons
-indiatimes.com##div > div >a
