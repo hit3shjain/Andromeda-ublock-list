@@ -1638,3 +1638,16 @@ yomovies.org###cookiedata
 xmovies.is##.notice
 xmovies.is##.footer_detail
 xmovies.is##.alert-info
+
+!Added on 20th September 2018
+bloomberg.com###paywall-banner
+fortune.com##.subscribe-flyout
+fortune.com##.subscribe-link
+fortune.com##[href^="https://pages.email.fortune.com/newsletters/"]
+ft.com##.o-share__action
+instructables.com###imadeits
+khaleejtimes.com##.banner_ads_home_inner
+motilaloswal.com###banner_div11
+quora.com##.layout_2col_main > .UnifiedAnswerPagedList
+twitter.com/*promoted_content/*
+windowscentral.com##.adunit-purch
