@@ -1651,3 +1651,27 @@ motilaloswal.com###banner_div11
 quora.com##.layout_2col_main > .UnifiedAnswerPagedList
 twitter.com/*promoted_content/*
 windowscentral.com##.adunit-purch
+*counter.js
+*counters.js
+@@||d3otfkap419ijo.cloudfront.net/*$font,domain=healthline.com
+bit.ly/2PPNJwz
+bloomberg.com###paywall-banner
+bloomberg.com##.leaderboard-ad-dummy
+fmovies.to##.alert-default
+goscr.org###site-title
+goscr.org##.entry-header
+goscr.org##strong
+hdeuropix.io###imgads
+hdeuropix.io###suppus
+hdeuropix.io###twgo
+hdeuropix.io##.galaxlnk
+healthline.com###DCMR1__slot
+healthline.com##.email.button-wrapper
+healthline.com##div[data-empty="true"]
+pavlov-prod.healthline.com
+symptoms.webmd.com##.module-f-hs
+twitter.com^$domain=fmovies.to,important
+webmd.com##.module-f-hs
+wildaffiliates.com
+wunderino.com
+
