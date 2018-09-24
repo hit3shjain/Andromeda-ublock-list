@@ -1649,7 +1649,6 @@ instructables.com###imadeits
 khaleejtimes.com##.banner_ads_home_inner
 motilaloswal.com###banner_div11
 quora.com##.layout_2col_main > .UnifiedAnswerPagedList
-twitter.com/*promoted_content/*
 windowscentral.com##.adunit-purch
 *counter.js
 *counters.js
