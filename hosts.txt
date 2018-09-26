@@ -1817,6 +1817,4 @@ theprint.in###view_comment
 timesnownews.com##.ad-section-one
 timesnownews.com##.ad-section-three
 timesnownews.com##.ad-section-two
-tosshub.com
-
 
