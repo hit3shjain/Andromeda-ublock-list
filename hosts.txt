@@ -1650,8 +1650,6 @@ khaleejtimes.com##.banner_ads_home_inner
 motilaloswal.com###banner_div11
 quora.com##.layout_2col_main > .UnifiedAnswerPagedList
 windowscentral.com##.adunit-purch
-*counter.js
-*counters.js
 @@||d3otfkap419ijo.cloudfront.net/*$font,domain=healthline.com
 bit.ly/2PPNJwz
 bloomberg.com###paywall-banner
