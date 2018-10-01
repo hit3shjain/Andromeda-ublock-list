@@ -1816,3 +1816,10 @@ timesnownews.com##.ad-section-one
 timesnownews.com##.ad-section-three
 timesnownews.com##.ad-section-two
 
+androidcentral.com##.article-shop-bar
+indianexpress.com##.pay-tm
+indiatimes.com/*/identity/*
+indiatoday.in##.story-header-ad
+paytm.com^$domain=indianexpress.com
+windowslatest.com###mc_embed_signup
+windowslatest.com##.ai_widget
