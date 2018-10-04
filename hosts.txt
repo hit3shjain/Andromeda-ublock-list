@@ -1463,8 +1463,6 @@ youtube.com###masthead-ad
 @@||platform.twitter.com/widgets.js
 ||bselivefeeds.indiatimes.com/ET_Community/*
 ||cdn.scroll.in/static/js/chunk.*js$script
-||edata.ndtv.com^
-||electionsdata.ndtv.com^
 ||emsservice.de^
 ||indiatimes.com/feed_mf_promotion.cms
 ||infogram.com^
