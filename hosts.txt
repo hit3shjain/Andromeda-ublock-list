@@ -1961,4 +1961,11 @@ timesofindia.com###id_articlecomment
 timesofindia.com##.liveblogSocial
 vox.com##.tab-bar-fixed
 xda-developers.com##.comments
-
+*count.js
+gizmochina.com##[href="https://bit.ly/2OuNdmM"]
+indiatimes.com###sharebar
+indiatimes.com##.videoBookmark
+investing.com###addAComment
+investing.com##.commentsBubbleCnt
+lifehacker.com##.ad-non-sticky
+lifehacker.com##.contained-ad-container
