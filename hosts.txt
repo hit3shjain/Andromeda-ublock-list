@@ -1458,7 +1458,6 @@ indiatimes.com###shareInline
 youtube.com###masthead-ad
 
 !Added on 27th August 2018
-*/share.js
 @@||ndtv.com^$inline-script
 @@||platform.twitter.com/widgets.js
 ||bselivefeeds.indiatimes.com/ET_Community/*
@@ -2047,4 +2046,4 @@ nieveni.com
 ||*logo.png$image,domain=movierulzhd.in
 ##.colombiaAd
 ##.ad_dfp
-
+financialexpress.com##.adsbox990x90
