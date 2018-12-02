@@ -2243,3 +2243,12 @@ tribuneindia.com###ctl00_ContentPlaceHolder1_dvComments
 tribuneindia.com###ctl00_ContentPlaceHolder1_dvSharebtm
 tribuneindia.com##.classified_main
 vukhhjzd.com
+indianexpress.com##.o-listing__ad
+indianexpress.com##.m-advert
+proshop.de##.site-right-banner
+proshop.de##.site-left-banner
+##.provAd
+msn.com##.nativead
+##.nativead
+##.m-advert
+##.o-listing__ad
