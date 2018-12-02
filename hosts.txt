@@ -2252,3 +2252,16 @@ msn.com##.nativead
 ##.nativead
 ##.m-advert
 ##.o-listing__ad
+hotstar.com/in/aadhar/*
+yomovies.org##[href="https://yomovies.org/genre/18/"]
+||fmoviesfree.org/ping
+otefauks.link
+doaraifa.click
+ptouckoo.net
+reyden-x.com
+europixhd.com##.hidenumb
+harsonsy.com
+ssl2anyone3.com
+psoapeez.click
+/ad9.
+/ad11.
