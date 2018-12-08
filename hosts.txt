@@ -2271,3 +2271,5 @@ chouphoa.top
 s.to##.globalNewsMessage
 s.to##[href="https://s.to/gewinnspiel"]
 zostofou.link
+chauksoa.net
+whatseet.net
