@@ -2043,7 +2043,7 @@ koapsooh.click
 himanyo.com
 wynather.com
 nieveni.com
-||*logo.png$image,domain=movierulzhd.in
+||*logo.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.co
 ##.colombiaAd
 ##.ad_dfp
 financialexpress.com##.adsbox990x90
@@ -2273,3 +2273,12 @@ s.to##[href="https://s.to/gewinnspiel"]
 zostofou.link
 chauksoa.net
 whatseet.net
+europixhd.com###suppus
+eedsaiks.uk
+filmsilly.com##.social
+filmsilly.com##.mb-0.reviews-block
+filmsilly.com##.movie_feedback
+ptocmaux.com
+||hindilinks4u.to/watch-hd/*$popup
+dompegho.net
+phichaus.top
