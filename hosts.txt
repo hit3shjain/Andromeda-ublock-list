@@ -2044,6 +2044,7 @@ himanyo.com
 wynather.com
 nieveni.com
 ||*logo.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.co|fmovies.to
+||*image.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.co|fmovies.to
 ##.colombiaAd
 ##.ad_dfp
 financialexpress.com##.adsbox990x90
