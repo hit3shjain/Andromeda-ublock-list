@@ -2287,3 +2287,12 @@ latchemt.top
 */adstr3tvs3.js
 *.top/*
 *.click/*
+msn.com###section\.apps\.topsites-headingtext
+msn.com##.adprocess
+timesnownews.com##.add-wrap
+lifehacker.com.au##.ad
+lifehacker.com.au##.leaderboard-container
+bloombergquint.com##.subscribe-newsletter--small
+bloombergquint.com##.sentifi-container
+ndtv.com###___ndtvELexBanner
+ndtv.com###adslot300x100ATF
