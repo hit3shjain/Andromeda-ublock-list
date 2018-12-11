@@ -245,8 +245,6 @@ $xmlhttprequest,domain=filmsfunda.com
 ||myt.indiatimes.com^
 ||mytimes.indiatimes.com$important
 ||ndtv.com##.adv_bg
-||ndtv.com/widget
-||ndtv.com^$inline-script
 ||newindianexpress.com##.FixedOptions.Social_Fonts
 ||newindianexpress.com##.remodal-main-overlay
 ||newindianexpress.com##.widget-container-120.widget-container
