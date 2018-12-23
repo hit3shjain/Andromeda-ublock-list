@@ -2296,3 +2296,15 @@ bloombergquint.com##.subscribe-newsletter--small
 bloombergquint.com##.sentifi-container
 ndtv.com###___ndtvELexBanner
 ndtv.com###adslot300x100ATF
+smallbusiness.chron.com###top-300
+smallbusiness.chron.com##.leaderboard
+aifoosty.net
+gqindia.com###topadbnr
+||movies7k.net/js/scripts.js
+webmd.com###nl-multie
+||europixhd.com/js/*
+||hindipix.in^$script,first-party
+@@||hindipix.in/menuhd18.js
+lefopost.com
+whoroaza.com
+pndelfast.com
