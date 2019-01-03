@@ -2302,9 +2302,6 @@ aifoosty.net
 gqindia.com###topadbnr
 ||movies7k.net/js/scripts.js
 webmd.com###nl-multie
-||europixhd.com/js/*
-||hindipix.in^$script,first-party
-@@||hindipix.in/menuhd18.js
 lefopost.com
 whoroaza.com
 pndelfast.com
@@ -2370,3 +2367,11 @@ pirdoust.com
 adultempire.com
 hartookr.link
 vaigowoa.com
+retiremely.com
+|/js/zss*
+|/js/youmaylike/*
+/js/hdgugan.js
+/js/modernizr.js
+||topeuropix.net/js/global.js
+||europixhd.com/hd*.js
+||topeuropix.net/js/serv2/*
