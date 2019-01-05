@@ -1,8 +1,8 @@
 !-------------------------------------------------------------------------------
 ! Title: Andromeda uBlock Filter List
 ! Expires: 7 days (update frequency)
-! Version: 03.0
-! Last modified: 26 December 2018
+! Version: 03.1
+! Last modified: 05 January 2019
 ! Homepage: https://github.com/hit3shjain/Andromeda-ublock-list
 ! Contribute: https://github.com/hit3shjain/Andromeda-ublock-list/issues
 ! License: https://mit-license.org/
@@ -2375,3 +2375,23 @@ retiremely.com
 ||topeuropix.net/js/global.js
 ||europixhd.com/hd*.js
 ||topeuropix.net/js/serv2/*
+/js/*zss*.js
+||topeuropix.net/js/note2.js
+lyricsmint.com##.lyric-adlabel
+metrolyrics.com##.sponsor
+/js/youmaylike/*
+/hdmgor.js
+/hdmdol.js
+phastoag.com
+arolrurt.uk
+youtube-nocookie.com/api/stats/*
+chidsimp.com
+glodrips.com
+thiksikr.com
+xmovies.is##[href*="//chidsimp.com"]
+furocmay.com
+*/dist/jquery.tablesorter/*
+psoaghie.net
+ceptavou.net
+amgload.net
+smcheck.org
