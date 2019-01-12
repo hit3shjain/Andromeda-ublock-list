@@ -2415,3 +2415,14 @@ indianexpress.com###comments
 cnet.com##.type-native
 indianexpress.com##.m-live-blog-meta__share-actions
 indianexpress.com##.m-story-meta__shares
+s.to##[href*="//chauksoa.net"]
+||europixhd.com/js/*
+wedeegut.net
+||hindipix.in/layout/*$script
+putlockertv.to##[href*="//wedeegut.net/"]
+ousufauk.com
+.top/
+.com/logo.png?
+riluaneth.com
+bodelen.com
+paupepsu.click
