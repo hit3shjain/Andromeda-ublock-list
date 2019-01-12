@@ -1,8 +1,8 @@
 !-------------------------------------------------------------------------------
 ! Title: Andromeda uBlock Filter List
 ! Expires: 7 days (update frequency)
-! Version: 03.1
-! Last modified: 05 January 2019
+! Version: 03.2
+! Last modified: 12 January 2019
 ! Homepage: https://github.com/hit3shjain/Andromeda-ublock-list
 ! Contribute: https://github.com/hit3shjain/Andromeda-ublock-list/issues
 ! License: https://mit-license.org/
@@ -2426,3 +2426,8 @@ ousufauk.com
 riluaneth.com
 bodelen.com
 paupepsu.click
+startpage.com##.promotion
+/gdpr-consent-quantcast.js
+@@||www.googletagmanager.com/gtm.js$script,domain=einthusan.tv
+@@||d2wy8f7a9ursnm.cloudfront.net^$script,domain=einthusan.tv
+einthusan.tv##[href^="/buy/"]
