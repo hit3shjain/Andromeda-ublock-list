@@ -2521,3 +2521,10 @@ news18.com##.gshre-box
 ##.gshre-box
 ##.social_share
 ##.socialshare-rightsec
+chip.de###contentad-storyad-1
+chip.de###contentad-skyscraper-1
+||ad-js.chip.de^
+finanztreff.de##.share
+finanztreff.de###adup1
+finanztreff.de##.contentBox_veeseo
+thelocal.de##.ad_container
