@@ -2543,3 +2543,5 @@ teesheel.net
 ||google.com^$domain=pagalworld.io
 220167981.world
 stackpathdns.com
+s2zpz.com
+bit.ly/2SgoHvd
