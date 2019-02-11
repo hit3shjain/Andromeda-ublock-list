@@ -2528,3 +2528,15 @@ finanztreff.de##.share
 finanztreff.de###adup1
 finanztreff.de##.contentBox_veeseo
 thelocal.de##.ad_container
+dolohen.com
+hindilinks4u.to##.note
+adsblockkpush.com
+@@||reutersmedia.net/resources/*$image
+@@||reuters.com/resources/*$image
+softpedia.com##.ad
+addictivetips.com##.ggnoads
+youtube.com###watch-checkout-offers
+youtube.com###merch-shelf
+oupushee.com
+oodeewhe.net
+teesheel.net
