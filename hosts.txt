@@ -2540,3 +2540,6 @@ youtube.com###merch-shelf
 oupushee.com
 oodeewhe.net
 teesheel.net
+||google.com^$domain=pagalworld.io
+220167981.world
+stackpathdns.com
