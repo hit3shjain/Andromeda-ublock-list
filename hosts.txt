@@ -1,8 +1,8 @@
 !-------------------------------------------------------------------------------
 ! Title: Andromeda uBlock Filter List
 ! Expires: 7 days (update frequency)
-! Version: 03.2
-! Last modified: 12 January 2019
+! Version: 04.0
+! Last modified: 19 February 2019
 ! Homepage: https://github.com/hit3shjain/Andromeda-ublock-list
 ! Contribute: https://github.com/hit3shjain/Andromeda-ublock-list/issues
 ! License: https://mit-license.org/
@@ -2545,3 +2545,40 @@ teesheel.net
 stackpathdns.com
 s2zpz.com
 bit.ly/2SgoHvd
+theguardian.com##.cta-bar__message
+moneycontrol.com##.topbudget
+indiatimes.com##[href*="http://www.coupondunia.in/"]
+indiatimes.com##div > div > a > div
+indiatimes.com##div > div> a > span
+indiatimes.com##[href="https://www.colombiaonline.com/"]
+@@||en25.com/*/Kinaxis/*
+||indiatimes.com/configspace/etmain_static/budget2019/$subdocument,first-party
+indiatimes.com##[href*="share"]
+indiatimes.com##[href^="mailto:"]
+##.ad-unit
+##.movable-ad
+##.ad-wrapper
+gizmodo.com##.ad-wrapper
+gizmodo.com##.share-toolbar__container
+gizmodo.com##.meta__toolbars
+###catfishcookie
+###catfish
+##[href*="//ousufauk.com/"]
+bcone.com##.av-share-box
+kdnuggets.com##.boxzilla-container
+ndtv.com##.article__comment
+ndtv.com##.js-cl-popup-notify
+web.de##.lotto-slider
+web.de##.adv-generic-container
+web.de##.lotto
+web.de##.medrec
+web.de##.empty
+web.de##.webcent
+chip.de###contentad-storyad-1
+chip.de###contentad-skyscraper-1
+||ad-js.chip.de^
+n26.com###gdpr-notice
+finanztreff.de##.share
+finanztreff.de###adup1
+finanztreff.de##.contentBox_veeseo
+thelocal.de##.ad_container
