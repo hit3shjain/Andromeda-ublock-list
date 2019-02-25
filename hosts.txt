@@ -1116,7 +1116,7 @@ movies777.org###commentfb
 @@||*advert*$domain=insite.clariant.com
 ||gadgetsnow.com/wdt_ajaxnav.cms
 ||indiatimes.com/sso/identity/*
-||investis.com^
+||investis.com/clients/SocialMedia/*
 ||mykhel.com^
 ||polls.oneindia.com^
 ||pulseinsights.com^
