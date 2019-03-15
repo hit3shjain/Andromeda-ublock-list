@@ -2649,3 +2649,12 @@ crichd.xyz##[href^="https://pl.allsports4free.club/"]
 crichd.xyz###nwmlay
 ||cric1.com^$image
 qaykb.com
+tagesschau.de##.socialMedia
+moneycontrol.com##.sshare-icon
+moneycontrol.com##.whatsapp-share-desktop
+moneycontrol.com##.fsoci
+livemint.com###story-ads-0
+livemint.com##.adHolderStory
+moneycontrol.com###thomson_icon_price_chart
+moneycontrol.com##.btn_tradep_pop
+moneycontrol.com###Moneycontrol\/MC_Market\/MC_Market_StockPrice_300x250_div
