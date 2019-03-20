@@ -2685,3 +2685,13 @@ theguardian.com##.new-header__cta-bar
 theguardian.com##.contributions__adblock--moment
 theguardian.com##.cta-bar__text
 theguardian.com##.contributions__wrapper
+/note2.js
+||europixhd.net/js/global.js
+europixhd.net###suppus
+europixhd.net###backzamag
+europixhd.net###cece2
+/scrl.js
+ndtv.com##.__footer_ads
+*/analytics-tracker/*
+donations.livestream.com
+europixhd.net###twgo
