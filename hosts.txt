@@ -2734,3 +2734,7 @@ sap.com##.shareandfollow
 xe.com###internalAdSlot1
 xe.com###adProbx
 /feedback_survey
+ejoonsoo.net
+ucheephu.com
+steptaik.net
+||twitter.com^$domain=europixhd.net
