@@ -1961,7 +1961,6 @@ pinkvilla.com###Mobile-007
 pinkvilla.com##.ads
 pirdoust.com
 planforgermany.com##.adsbygoogle
-platform.instagram.com
 platform.twitter.com$domain=ffmovies.ru
 play.google.com$xmlhttprequest
 play.google.com*/log$xmlhttprequest,important
