@@ -2815,3 +2815,10 @@ urlaubstracker.de###adup1
 wsj.com###share-target
 xda-developers.com##.below-nav-ad
 xda-developers.com##[href="https://forum.xda-developers.com/getbrave"]
+@@||stackpathdns.com^$domain=heretotravel.com
+coomosha.com
+kurlipush.com
+ailtumty.net
+houchosi.net
+zuzodoad.com
+greetham.net
