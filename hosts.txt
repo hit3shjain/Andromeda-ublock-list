@@ -2827,3 +2827,6 @@ ucheephu.com
 steptaik.net
 ||twitter.com^$domain=europixhd.net
 news18.com##.el-sponsrs
+pegloang.com
+@@||static.akacdn.ru^$image,domain=fmovies.to
+@@||staticf.akacdn.ru^$domain=fmovies.to
