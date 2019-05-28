@@ -1447,8 +1447,6 @@ indiatimes.com##[href^="https://go.onelink.me/unJQ"]
 indiatimes.com##[href^="mailto:"]
 indiatimes.com##[href="https://www.colombiaonline.com/"]
 indiatimes.com##[src*="https://economictimes.indiatimes.com/configspace/etmain_static/budget2019"]
-indiatimes.com##div > div > a > div
-indiatimes.com##div > div> a > span
 indiatimes.com##div[class] > h2 + div:has(a[onclick][rel="nofollow,noindex"]):xpath(parent::div[following-sibling::script[contains(text(),"coldetect")]])
 indiatimes.com##div[id*="div-gpt-ad-"]
 indiatimes.com##h2 > .flr
@@ -2857,3 +2855,8 @@ bankbazaar.com###desktopStickyFooter
 bankbazaar.com###seo-banner-webengage
 bankbazaar.com##.ct-img-web-banner
 t-online.de###Tasfeed3
+newsbytesapp.com###app-download-banner
+newsbytesapp.com###subscription-banner
+indiatimes.com##[href^="https://www.amazon.in/b"]
+economictimes.indiatimes.com##.alldspdata-mf
+economictimes.indiatimes.com##.sme_banner_widget
