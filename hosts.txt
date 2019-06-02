@@ -1,8 +1,8 @@
 !-------------------------------------------------------------------------------
 ! Title: Andromeda uBlock Filter List
 ! Expires: 7 days (update frequency)
-! Version: 04.0
-! Last modified: 19 February 2019
+! Version: 04.1
+! Last modified: 02 June 2019
 ! Homepage: https://github.com/hit3shjain/Andromeda-ublock-list
 ! Contribute: https://github.com/hit3shjain/Andromeda-ublock-list/issues
 ! License: https://mit-license.org/
@@ -2921,3 +2921,18 @@ crichd.com###dbox
 ||tinypic.com^$domain=crichd.to
 ||prettyfast.to/log/*
 ||fmovies.to/ajax/film/update-views
+||youtube.com^$popup,domain=cinevood.pw
+cinevood.pw##.mvic-btn
+cinevood.pw###commentfb
+cinevood.pw##[href="#list-dl"]
+cinevood.pw###list-dl
+chersoat.com
+hindilinks4u.to###tab_101
+hindilinks4u.to##.entry-actions
+yahoo.com###my-adsMON
+hlstester.com##[href^="./out.php"]
+pushnative.com
+foloatoo.com
+stoshoos.com
+shoutchu.net
+||vkspeed.com/js/*$script,first-party
