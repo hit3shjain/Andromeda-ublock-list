@@ -2962,3 +2962,8 @@ yodesitv.info###commentsAdd
 yodesitv.info###left-share
 ||lh3.googleusercontent.com/*=s300$image
 fmovies.to##.stream4k
+/terra.js
+||peer5.com^$websocket
+||vdosupreme.com^$websocket
+||etoro.com^$domain=hlstester.com
+||vkprime.com/js/*$first-party
