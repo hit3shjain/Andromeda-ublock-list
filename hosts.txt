@@ -2967,3 +2967,16 @@ fmovies.to##.stream4k
 ||vdosupreme.com^$websocket
 ||etoro.com^$domain=hlstester.com
 ||vkprime.com/js/*$first-party
+thehindu.com##.aruthMainSrch
+indiatimes.com###primeWidget
+thehansindia.com##.level-1-ad-desktop
+thehansindia.com##.level-after-3-ad-desktop
+thehansindia.com##.footer-one
+thewire.in##.header__donate-button
+indiatimes.com##[href="http://bit.ly/2WIl17I"]
+ascloud.astrosage.com##.site-define
+ascloud.astrosage.com##.notes-btn
+ascloud.astrosage.com###card-alert
+india.com##[href^="https://playandwingame.india.com/"]
+india.com##.iwplhdbanner-wrap
+@@||stripe.com^$domain=scottscheapflights.com
