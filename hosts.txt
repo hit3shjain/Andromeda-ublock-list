@@ -2980,3 +2980,9 @@ ascloud.astrosage.com###card-alert
 india.com##[href^="https://playandwingame.india.com/"]
 india.com##.iwplhdbanner-wrap
 @@||stripe.com^$domain=scottscheapflights.com
+hlstester.com###feedback_form
+hlstester.com##.header-bg
+zcric.com
+wicket.pw##.mobilesticky
+wicket.pw##.fullscreen-container
+wicket.pw##.cj_sticky_brand_widget
