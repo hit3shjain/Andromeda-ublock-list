@@ -3035,3 +3035,15 @@ prmovies.co###commentfb
 zhihrotpyphycy.com
 rfebbtvbojc.com
 lckzoepctj.com
+irctc.co.in###corover-cb-widget
+corover.mobi
+thelocal.de##[href^="https://itunes.apple.com"]
+thelocal.de##[href^="https://play.google.com"]
+timesofindia.indiatimes.com##.gaana-widget
+timesofindia.indiatimes.com##.photo_comment
+timesofindia.indiatimes.com##[href^="https://subscribe.timesgroup.com/"]
+xda-developers.com###twig-top
+themobileindian.com##.add-text
+buildquickbots.com
+analyticsvidhya.com##.TopUsersWidget
+analyticsvidhya.com###ban3_av
