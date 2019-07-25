@@ -396,10 +396,10 @@ $xmlhttprequest,domain=filmsfunda.com
 */webtrekk*.js
 */webtrekk_optimizely.min.js
 */widgets.js
-*article-update-count*
-*count.js
-*newsharecounts*
-*popup.js
+*/article-update-count*
+*/count.js
+*/newsharecounts*
+*/popup.js
 *starstruck*
 *teleriumads*
 *x.png$image,domain=www.vlive.pw
@@ -3097,3 +3097,7 @@ voodtv.com
 cinevood.live/sw.js
 armoneandwa.pro
 onlinemoviewatch.org/sw.js
+thelocal.de###promo-brexit
+electronicdesign.com##.banner-top-wrapper
+digit.in##.addwrraper
+hindustantimes.com##.ads_unit
