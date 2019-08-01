@@ -3101,3 +3101,17 @@ thelocal.de###promo-brexit
 electronicdesign.com##.banner-top-wrapper
 digit.in##.addwrraper
 hindustantimes.com##.ads_unit
+exoclsodaqs.com
+doghoust.net
+fethungi.com
+shusacem.net
+||facebook.com^$domain=topeuropix.net
+||twitter.com^$domain=topeuropix.net,important
+||facebook.net^$domain=topeuropix.net,important
+as.otto.de
+business-voip.pw###header
+business-voip.pw###footer
+business-degree.trade###header
+business-degree.trade###footer
+@@||imasdk.googleapis.com/js/*$script,domain=business-degree.trade
+@@||imasdk.googleapis.com/js/*$script,domain=business-voip.pw
