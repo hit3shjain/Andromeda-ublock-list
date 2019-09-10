@@ -521,7 +521,6 @@
 ##[src*="/amazon-associate/"]
 ##[src*="https://economictimes.indiatimes.com/configspace/etmain_static/budget2019"]
 ##[src*="https://mobiletipswork.store/ads/"]
-##[src*="Teaser"]
 ##[src*="whatapps-icon"]
 ##[src^="https://widget.getyourguide.com"]
 ##[src="//dianomi.com/recirculation.epl?id=66"]
