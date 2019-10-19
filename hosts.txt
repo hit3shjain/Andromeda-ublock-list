@@ -465,7 +465,6 @@
 ##[href*="newstatusvideos.itm"]
 ##[href*="preferredain.com"]
 ##[href*="preferredain.itm"]
-##[href*="share"]
 ##[href^="../out.php"]
 ##[href^="./out.php"]
 ##[href^="/buy/"]
@@ -3532,3 +3531,8 @@ cinevood.club##.mvic-btn
 downloadming.it###comments
 ||twitter.com^$domain=prmovies.co,important
 gounlimited.to
+asuredhighe.pro
+etcscrs.com##p
+wrontineventonjec.pro
+ev2cdn.com
+||platform.twitter.com^$domain=hindilinks4u.co,important
