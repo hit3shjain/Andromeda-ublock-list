@@ -3568,3 +3568,7 @@ europixhd.io###suppus
 europixhd.io###twgo
 europixhd.io/js/*
 europixhd.io###webcache
+uwatchfree.sh###comments
+uwatchfree.sh##.download-hd
+uwatchfree.sh##.download-links
+uwatchfree.sh##.watch-hd
