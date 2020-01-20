@@ -502,7 +502,6 @@
 ##[href="https://oneindia.com/save-life/"]
 ##[href="https://prmovies.co/genre/18/"]
 ##[href="https://s.to/gewinnspiel"]
-##[href="https://timesofindia.indiatimes.com/readersblog/"]
 ##[href="https://timesofindia.onelink.me/efRt/GetAppMwebHome"]
 ##[href="https://videoblocks.go2cloud.org/SH2g"]
 ##[href="https://www.colombiaonline.com/"]
@@ -511,7 +510,6 @@
 ##[href="https://yomovies.org/genre/18/"]
 ##[href="newscomm-33611.php"]
 ##[src*="/amazon-associate/"]
-##[src*="https://economictimes.indiatimes.com/configspace/etmain_static/budget2019"]
 ##[src*="https://mobiletipswork.store/ads/"]
 ##[src*="whatapps-icon"]
 ##[src^="https://widget.getyourguide.com"]
@@ -710,7 +708,6 @@ $xmlhttprequest,domain=filmsfunda.com
 |/js/youmaylike/*
 |/js/zss*
 ||$xmlhttprequest,domain=streamango.com
-||*/onetap_signin_js.js$domain=indiatimes.com
 ||*dist/*$script,domain=putlockertv.to
 ||*image.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.co|fmovies.to
 ||*image.png$image,domain=movierulzhd.in|filmsilly.com|1movierulz.be|xmovies.is|yomovies.it|fmovies.to
@@ -1002,7 +999,6 @@ boomlive.in###mvp-comments-button
 boomlive.in###socialcountplus-4
 boomlive.in##.sharedaddy
 botman.ninja
-bselivefeeds.indiatimes.com/ET_Community/*
 bt.click
 buildquickbots.com
 business-degree.trade###footer
@@ -1367,8 +1363,6 @@ etimg.com/js_comments.cms
 etimg.com/js_comments/*
 etimg.com/js_recommendation/*
 etimg.com/js_socialdatacapture_min.cms
-etusers.indiatimes.com
-etusers.indiatimes.com/personalisation/*
 euronews.com###sharethrough-ad
 euronews.com###taboola-below-article-thumbnails-2nd
 euronews.com###taboola-below-article-thumbnails-3rd
@@ -1595,7 +1589,6 @@ gadgetsnow.com##.ntfc_overlay
 gadgetsnow.com##.slideshowwdt
 gadgetsnow.com##.whatsSubscribe
 gadgetsnow.com/wdt_ajaxnav.cms
-gadgetsnow.com^$domain=indiatimes.com
 gaitheed.com
 gaonconnection.com##.social-share
 gaonconnection.com##.story-body__social-share
@@ -1603,7 +1596,6 @@ gbinsta.com##.adsbygoogle
 geekwire.com###ad-300x250_mobile
 geekwire.com###mobile-share-bar
 genius.com##dfp-ad
-geoapi.indiatimes.com
 germany-visa.org##.adsbygoogle
 gersairg.net
 gerzenad.com
@@ -1972,17 +1964,13 @@ indiatimes.com##[href*="https://timesofindia.indiatimes.com/Lost-Votes/"]
 indiatimes.com##[href*="https://www.coupondunia.in"]
 indiatimes.com##[href*="share"]
 indiatimes.com##[href^="https://go.onelink.me/unJQ"]
-indiatimes.com##[href^="https://subscribe.timesgroup.com/"]
 indiatimes.com##[href^="https://www.amazon.in/b"]
 indiatimes.com##[href^="mailto:"]
 indiatimes.com##[href="http://bit.ly/2WIl17I"]
-indiatimes.com##[href="https://timesofindia.indiatimes.com/readersblog/"]
 indiatimes.com##[href="https://www.colombiaonline.com/"]
-indiatimes.com##[src*="https://economictimes.indiatimes.com/configspace/etmain_static/budget2019"]
 indiatimes.com##div[class] > h2 + div:has(a[onclick][rel="nofollow,noindex"]):xpath(parent::div[following-sibling::script[contains(text(),"coldetect")]])
 indiatimes.com##div[id*="div-gpt-ad-"]
 indiatimes.com##h2 > .flr
-indiatimes.com##iframe[src="https://economictimes.indiatimes.com/configspace/etmain_static/budget2018/ET_Home.htm"]
 indiatimes.com##style[type="text/css"] + div[class]
 indiatimes.com##style[type="text/css"] + div[class]:not([id]):not([style]):not([class*=" "])
 indiatimes.com/*/identity/*
@@ -1991,19 +1979,11 @@ indiatimes.com/commentsdata.cms$important
 indiatimes.com/configspace/etmain_static/budget2019/$subdocument,first-party
 indiatimes.com/featuredblock_travel_slide.cms
 indiatimes.com/feed_mf_promotion.cms
-indiatimes.com/geo_location.cms
-indiatimes.com/geotargetgroup.cms
 indiatimes.com/getcomscore.cms
 indiatimes.com/getFacebooklive
 indiatimes.com/idtoin/*
 indiatimes.com/listing_widget.cms
 indiatimes.com/manageads$important
-indiatimes.com/nbtnews.cms
-indiatimes.com/newnlwidget.cms
-indiatimes.com/newsletterwidget_js/*
-indiatimes.com/personalisation_newhp.cms
-indiatimes.com/poll_v1.cms
-indiatimes.com/sso/identity/*
 indiatimes.com/stats
 indiatimes.com/tgp_widget.cms
 indiatimes.com/toicomments_slidercss
