@@ -1973,7 +1973,6 @@ indiatimes.com##div[id*="div-gpt-ad-"]
 indiatimes.com##h2 > .flr
 indiatimes.com##style[type="text/css"] + div[class]
 indiatimes.com##style[type="text/css"] + div[class]:not([id]):not([style]):not([class*=" "])
-indiatimes.com/*/identity/*
 indiatimes.com/acms/jsAds/*$important
 indiatimes.com/commentsdata.cms$important
 indiatimes.com/configspace/etmain_static/budget2019/$subdocument,first-party
