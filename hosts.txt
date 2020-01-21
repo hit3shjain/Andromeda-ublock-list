@@ -540,7 +540,6 @@ $xmlhttprequest,domain=filmsfunda.com
 *$third-party,popup,domain=vidzi.tv|thevideo.me|vidwatch.me|tvlogy.to|vidzi.tv|watchvideo15.us|thevideo.me|vidwatch3.me|vdrive.to|streamin.to|yo-desi.com|watchvideo16.us|www.cloudy.ec|watchvideo17.us|watchvideo18.us
 *$third-party,script,domain=watchers.to|cloudy.ec|watchvideo16.us|watchvideo17.us|watchvideo18.us
 *$third-party,script,domain=watchers.to|www.cloudy.ec|watchvideo16.us|watchvideo17.us|watchvideo18.us
-**timespoints*
 *.bid/*
 *.click/*
 *.club/
