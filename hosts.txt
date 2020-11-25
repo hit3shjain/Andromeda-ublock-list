@@ -679,7 +679,6 @@ $xmlhttprequest,domain=filmsfunda.com
 @@||onceux.unicornmedia.com
 @@||platform.twitter.com/js/*$script,domain=clariant.com
 @@||platform.twitter.com/widgets.js
-@@||play.google.com^$xmlhttprequest,first-party
 @@||reuters.com/resources/*$image
 @@||reutersmedia.net/resources/*$image
 @@||saavn.com/stats.php$first-party
@@ -2587,8 +2586,6 @@ pinkvilla.com##.ads
 pirdoust.com
 planforgermany.com##.adsbygoogle
 platform.twitter.com$domain=ffmovies.ru
-play.google.com$xmlhttprequest
-play.google.com*/log$xmlhttprequest,important
 player.in.com$domain=firstpost.com
 player.in.com$domain=www.firstpost.com
 plus.google.com
